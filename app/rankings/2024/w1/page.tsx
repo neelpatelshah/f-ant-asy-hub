@@ -1,7 +1,7 @@
 import { fetchLeagueInfo, merge } from "@/lib/utils";
 import React from "react";
 import Image from "next/image";
-import photo from "@/public/2024w1.jpg";
+import photo from "@/public/2024/w1.jpg";
 
 const rankings = [
   {
