@@ -237,8 +237,8 @@ const Page = async () => {
         <div className="mt-1 text-sm">
           <span className="font-bold">POTW: </span>
           <span>
-            Saquon Barkley - the Worthy Buttlicker's RB went for 33.2 points in
-            Sao Paolo
+            {`Saquon Barkley - the Worthy Buttlicker's RB went for 33.2 points in
+            Sao Paolo`}
           </span>
         </div>
       </div>
