@@ -8,7 +8,7 @@ type AnnualHistory = {
   fewestPoints: string | null;
 };
 
-const annualHistory: AnnualHistory[] = [
+export const annualHistory: AnnualHistory[] = [
   {
     year: 2023,
     winner: "Logan",

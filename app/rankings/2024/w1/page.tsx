@@ -16,6 +16,7 @@ const rankings = [
     Jefferson has Darnold working against him, Pitts has Kyle working against him, Pickens has black forces working against him, Kyler has the top shelf working against him, etc etc etc. There's a lot of adversity being faced by this roster,
     and we just feel that it limits the upside. That being said, maybe minus Kyle Pitts and swapping Kupp for another receiver from the 4th round, we'd be pretty happy with this roster being our own.`,
     roster: `1.6: J. Jefferson (WR), 2.5: K. Williams (RB), 3.6: R. White (RB), 4.5: C. Kupp (WR), 5.6: D. Smith (WR), 6.5: K. Pitts (TE), 7.6: G. Pickens (WR), 8.5: Z. White (RB), 9.6: K. Murray (QB), 10.5: J. Smith-Njigba (WR), 11.6: T. Benson (RB), 12.5: J. Burrow (QB), 13.6: J. Jeudy (WR), 14.5: S. 49ers (DEF), 15.6: J. Tucker (K), 16.5: D. Wicks (WR)`,
+    record: "7-6 (#6 seed)",
   },
   {
     //Danny
@@ -30,6 +31,7 @@ const rankings = [
     a talent that can make that room look best in the league. Kelce will be good but maybe not his usual peak, and Dak should be fine, but in general this is about as well rounded as you could hope
     to be. And the floor feels like it's very, very, very high, even if this is really the year Jones finally, FINALLY falls off (but he has Ty Chandler anyways). `,
     roster: `1.5: B. Robinson (RB), 2.6: D. Adams (WR), 3.5: T. Kelce (TE), 4.6: K. Walker (RB), 5.5: M. Pittman (WR), 6.6: A. Jones (RB), 7.5: A. Cooper (WR), 8.6: C. Ridley (WR), 9.5: J. Brooks (RB), 10.6: C. Sutton (WR), 11.5: B. Robinson (RB), 12.6: T. Chandler (RB), 13.5: D. Prescott (QB), 14.6: N. Jets (DEF), 15.5: L. Musgrave (TE), 16.6: C. Dicker (K)`,
+    record: "10-3 (#1 seed)",
   },
   {
     //Allan
@@ -44,6 +46,7 @@ const rankings = [
     plug in any zippy RB in his place in a heartbeat. Bpwers is similar to MHJ, but with a way better security blanket in Ferguson who could be Dallas's WR2, so that's not a big deal. Aside
     from those nits, the only real problem is RB depth, which is why he got dropped to the bottom half over Ram. We really like what this looks like.`,
     roster: `1.1: C. McCaffrey (RB), 2.10: M. Harrison (WR), 3.1: D. Achane (RB), 4.10: D. Metcalf (WR), 5.1: P. Mahomes (QB), 6.10: R. Rice (WR), 7.1: T. Dell (WR), 8.10: B. Bowers (TE), 9.1: T. McLaurin (WR), 10.10: B. Thomas (WR), 11.1: B. Corum (RB), 12.10: R. Dowdle (RB), 13.1: J. Dobbins (RB), 14.10: D. Cowboys (DEF), 15.1: J. Ferguson (TE), 16.10: T. Bass (K)`,
+    record: "6-7 (#9 seed)",
   },
   {
     //Nicole
@@ -59,6 +62,7 @@ const rankings = [
     produces, Njoku produces, and bench options of Montgomery, Reed and Allen is wild. This is the deepest and most balanced team in the league. Not finding a waiverable TE might be the only issue we see, and that's a pretty damn
     good spot to be in.`,
     roster: `1.3: B. Hall (RB), 2.8: C. Olave (WR), 3.3: J. Jacobs (RB), 4.8: D. Samuel (WR), 5.3: J. Hurts (QB), 6.8: D. Montgomery (RB), 7.3: D. Njoku (TE), 8.8: J. Reed (WR), 9.3: K. Allen (WR), 10.8: D. Hopkins (WR), 11.3: C. Brown (RB), 12.8: K. Shakir (WR), 13.3: E. McPherson (K), 14.8: B. Ravens (DEF), 15.3: J. Downs (WR), 16.8: J. McLaughlin (RB)`,
+    record: "8-5 (#4 seed)",
   },
   {
     //Nandan
@@ -73,6 +77,7 @@ const rankings = [
     Maybe there's a resurgence, but solidifying that RB room with Najee is just truly hilarious. And to be clear, the only reason he's getting away with Drake London not being his worst
     pick is being London with an N is such gold that no other team could have drafted him. All in all, we don't love the team, but that doesn't mean he has to puka different strat.`,
     roster: `1.2: T. Hill (WR), 2.9: P. Nacua (WR), 3.2: D. Henry (RB), 4.9: D. London (WR), 5.2: D. Moore (WR), 6.9: E. Engram (TE), 7.2: N. Harris (RB), 8.9: Z. Moss (RB), 9.2: C. Stroud (QB), 10.9: T. Lockett (WR), 11.2: G. Edwards (RB), 12.9: C. Hubbard (RB), 13.2: J. Polk (WR), 14.9: Y. Koo (K), 15.2: C. Browns (DEF), 16.9: C. Kmet (TE)`,
+    record: "4-9 (#10 seed)",
   },
   {
     //Mike
@@ -87,6 +92,7 @@ const rankings = [
     and this high-flying Texans offense may give him some juice but we just don't have faith. Allen and Kincaid is excellent, Lamb and Kirk are a pretty solid duo, and Flowers has some potential. Good things
     can certainly be brewing here, but we just don't love the recipe right now. Also how on earth did taking Jordan Love over Dak make sense?`,
     roster: `1.4: C. Lamb (WR), 2.7: I. Pacheco (RB), 3.4: J. Mixon (RB), 4.7: J. Allen (QB), 5.4: D. Kincaid (TE), 6.7: Z. Flowers (WR), 7.4: A. Ekeler (RB), 8.7: C. Kirk (WR), 9.4: D. Goedert (TE), 10.7: T. Spears (RB), 11.4: J. Williams (WR), 12.7: B. Aubrey (K), 13.4: J. Love (QB), 14.7: G. Davis (WR), 15.4: P. Eagles (DEF), 16.7: J. Wright (RB)`,
+    record: "6-7 (#8 seed)",
   },
   {
     //Logan
@@ -100,6 +106,7 @@ const rankings = [
     to work out somehow. But look at this shit fr. Lions players back to back, then a potential WR3, then 5 of the most unbeleivably sub-mid running backs imaginable. How are we supposed to be bullish
     on this team? How? He's gonna wind up winning a million games and making the 'yoffs anyways. Whatever.`,
     roster: `1.7: A. St. Brown (WR), 2.4: J. Gibbs (RB), 3.7: N. Collins (WR), 4.4: M. Evans (WR), 5.7: L. Jackson (QB), 6.4: G. Kittle (TE), 7.7: R. Stevenson (RB), 8.4: R. Mostert (RB), 9.7: J. Williams (RB), 10.4: K. Coleman (WR), 11.7: J. Addison (WR), 12.4: E. Elliott (RB), 13.7: Z. Charbonnet (RB), 14.4: J. Goff (QB), 15.7: T. Buccaneers (DEF), 16.4: J. Elliott (K)`,
+    record: "7-6 (#5 seed)",
   },
   {
     //Neel
@@ -115,6 +122,7 @@ const rankings = [
     Tua is gonna pass for 5000 yards anyways). OH YEAH AND NICK CHUBB, it's actually gonna be the best RB trio. Really, the worst thing here is Richardson and JT on the same roster, limiting the max rushing potential, but that
     can always work itself out. This is a good team.`,
     roster: `1.10: J. Taylor (RB), 2.1: T. Etienne (RB), 3.10: B. Aiyuk (WR), 4.1: J. Waddle (WR), 5.10: T. McBride (TE), 6.1: T. Higgins (WR), 7.10: A. Richardson (QB), 8.1: N. Chubb (RB), 9.10: H. Brown (WR), 10.1: L. McConkey (WR), 11.10: J. Ford (RB), 12.1: A. Mitchell (WR), 13.10: T. Tagovailoa (QB), 14.1: M. Williams (WR), 15.10: T. Tracy (RB), 16.1: S. Seahawks (DEF)`,
+    record: "9-4 (#2 seed)",
   },
   {
     //Saarang
@@ -129,6 +137,7 @@ const rankings = [
     should get volume, LaPorta will be in the top 3 TEs, and the WR depth is really, really good. Why is he down here then? None of the RBs are like actually good, but more importantly, he didn't take Burrow
     for some god forsaken reason, and then took Brock of all people. So this is as high as he's legally allowed to be placed.`,
     roster: `1.8: J. Chase (WR), 2.3: A. Brown (WR), 3.8: A. Kamara (RB), 4.3: S. LaPorta (TE), 5.8: S. Diggs (WR), 6.3: D. Swift (RB), 7.8: C. Godwin (WR), 8.3: T. Pollard (RB), 9.8: D. Johnson (WR), 10.3: D. Singletary (RB), 11.8: C. Samuel (WR), 12.3: R. Doubs (WR), 13.8: B. Purdy (QB), 14.3: C. Williams (QB), 15.8: M. Dolphins (DEF), 16.3: K. Fairbairn (K)`,
+    record: "7-6 (#7 seed)",
   },
   {
     //Ram
@@ -142,6 +151,7 @@ const rankings = [
     is just bad. But for the positives, Wilson's volumne figures to be insane, and the same goes for Cook. Andrews is good but unreliable maybe, so backing up with Hock is great. Conner is an excellent 3rd option at RB. If the WRs pan out, IF, then this
     team has absolutely wild upside. But the floor should still be pretty, pretty good.`,
     roster: `1.9: G. Wilson (WR), 2.2: S. Barkley (RB), 3.9: J. Cook (RB), 4.2: M. Nabers (WR), 5.9: M. Andrews (TE), 6.2: J. Conner (RB), 7.9: X. Worthy (WR), 8.2: R. Odunze (WR), 9.9: J. Warren (RB), 10.2: C. Watson (WR), 11.9: T. Hockenson (TE), 12.2: J. Meyers (WR), 13.9: A. Rodgers (QB), 14.2: R. Shaheed (WR), 15.9: J. Dotson (WR), 16.2: K. Chiefs (DEF)`,
+    record: "9-4 (#3 seed)",
   },
 ];
 
@@ -157,6 +167,7 @@ interface RankingProps {
   up: string;
   down: string;
   roster: string;
+  record: string;
 }
 
 const Ranking = ({
@@ -171,6 +182,7 @@ const Ranking = ({
   up,
   down,
   roster,
+  record,
 }: RankingProps) => {
   return (
     <div className="my-4">
@@ -189,6 +201,9 @@ const Ranking = ({
         <h5 className="text-sm font-semibold">Worst pick: {down}</h5>
       </div>
       <p className="text-sm text-justify">{blurb}</p>
+      <div className="text-xs mt-2 font-semibold italic">
+        Projection: {record}
+      </div>
     </div>
   );
 };

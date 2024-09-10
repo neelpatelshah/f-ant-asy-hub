@@ -10,19 +10,19 @@ const NavBar = () => {
       <Button variant="ghost" asChild>
         <Link href="/">
           <Image src={logo} alt="logo" width={20} height={20} />
-          <div className="ml-2">Home</div>
+          <div className="ml-2 font-bold">Home</div>
         </Link>
       </Button>
       <Button variant="ghost" asChild>
         <Link href="/rankings">
           <ChartNoAxesCombined className="w-3 h-3 mr-2" />
-          <div>Power Rankings</div>
+          <div className="font-bold">Power Rankings</div>
         </Link>
       </Button>
       <Button variant="ghost" asChild>
         <Link href="/history">
           <Trophy className="w-3 h-3 mr-2" />
-          <div>History</div>
+          <div className="font-bold">History</div>
         </Link>
       </Button>
     </div>

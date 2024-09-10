@@ -3,7 +3,7 @@ import { Ysabeau_Office } from "next/font/google";
 import "./globals.css";
 import NavBar from "@/components/navbar";
 
-const font = Ysabeau_Office({ weight: "400", subsets: ["latin"] });
+const font = Ysabeau_Office({ weight: "variable", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "fANTasy football VII",
