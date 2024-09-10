@@ -202,25 +202,25 @@ const Page = async () => {
       <h3 className="text-center font-bold"> WEEK 2 POWER RANKINGS </h3>
       <div className="mt-4 w-full">
         <p className="text-sm text-justify">
-          Historically low passing totals were the story of the day. This means
+          {`Historically low passing totals were the story of the day. This means
           that offense was down. And in a game where offense is basically
-          everything, that's not ideal.
+          everything, that's not ideal.`}
           <br /> <br />
-          It's not all bad, since defenses and kickers showed the fuck out this
-          week. But still, lame!
+          {`It's not all bad, since defenses and kickers showed the fuck out this
+          week. But still, lame!`}
           <br /> <br />
-          Aside from a handful of nice comebacks that literally were so
+          {`Aside from a handful of nice comebacks that literally were so
           devastating Will Levis fell to his knees in a Walmart (Walmart being
           Soldier Field), the most notable thing that happened in the league
           this week was Tyreek Hill joining Antifa and advocating for the
           complete dismantaling, reallocation of funds, and eventual abolition
-          of the national police force.
+          of the national police force.`}
           <br /> <br />
-          In a cruel twist of fate, Saarang is the only person in the top 4 who
+          {`In a cruel twist of fate, Saarang is the only person in the top 4 who
           won their matchup (and he's not 1, 2, or 3). Will he then be put at
-          #1? No, of course not, don't be daft.
+          #1? No, of course not, don't be daft.`}
           <br /> <br />
-          Here's to hoping offenses get back on track in Week 2.
+          {`Here's to hoping offenses get back on track in Week 2.`}
         </p>
         <div className="mt-4 text-sm">
           <span className="font-bold">TOTW: </span>
