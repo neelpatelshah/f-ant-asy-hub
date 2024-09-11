@@ -11,7 +11,7 @@ type AnnualHistory = {
 export const annualHistory: AnnualHistory[] = [
   {
     year: 2023,
-    winner: "Logan",
+    winner: "Logan 🏆🏆🏆",
     runnerUp: "Danny",
     bestRecord: "Ram (12-1)",
     worstRecord: "Allan (3-10)",
@@ -20,7 +20,7 @@ export const annualHistory: AnnualHistory[] = [
   },
   {
     year: 2022,
-    winner: "Danny",
+    winner: "Danny 🏆🏆",
     runnerUp: "Logan",
     bestRecord: "Danny & Shiv (9-4)",
     worstRecord: "Mike (3-10)",
@@ -29,7 +29,7 @@ export const annualHistory: AnnualHistory[] = [
   },
   {
     year: 2021,
-    winner: "Neel",
+    winner: "Neel 🏆",
     runnerUp: "Nicole",
     bestRecord: "Logan & Neel (9-4)",
     worstRecord: "Mike, Saarang, Nandan, & Ram (5-8)",
@@ -38,16 +38,16 @@ export const annualHistory: AnnualHistory[] = [
   },
   {
     year: 2020,
-    winner: "Danny",
+    winner: "Danny 🏆",
     runnerUp: "Logan",
-    bestRecord: null,
-    worstRecord: null,
-    mostPoints: null,
-    fewestPoints: null,
+    bestRecord: "Logan (9-3)",
+    worstRecord: "Allan (3-9)",
+    mostPoints: "Logan (1577.5)",
+    fewestPoints: "Arsh (1199)",
   },
   {
     year: 2019,
-    winner: "Logan",
+    winner: "Logan 🏆🏆",
     runnerUp: null,
     bestRecord: null,
     worstRecord: null,
@@ -56,7 +56,7 @@ export const annualHistory: AnnualHistory[] = [
   },
   {
     year: 2018,
-    winner: "Logan",
+    winner: "Logan 🏆",
     runnerUp: "Tyler",
     bestRecord: null,
     worstRecord: null,
