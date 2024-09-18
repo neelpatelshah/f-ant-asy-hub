@@ -11,4 +11,8 @@ export const rankings2024 = [
     label: "Week 2",
     value: "w2",
   },
+  {
+    label: "Week 3",
+    value: "w3",
+  },
 ];
