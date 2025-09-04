@@ -16,3 +16,14 @@ export const rankings2024 = [
     value: "w3",
   },
 ];
+
+export const rankings2025 = [
+  {
+    label: "View All 2025",
+    value: "",
+  },
+  {
+    label: "Week 1",
+    value: "w1",
+  },
+];

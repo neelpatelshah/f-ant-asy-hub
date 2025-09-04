@@ -12,17 +12,13 @@ const Page = async () => {
     return data;
   };
 
-  const data = (await fetchLeagueInfo("2024", setter)) as Team[];
+  const data = (await fetchLeagueInfo("2025", setter)) as Team[];
 
   return (
     <div className="px-4 md:px-[32rem]">
       <div className="flex flex-col items-center mt-4 gap-2 mb-2">
-        <h1 className="font-semibold">
-          Reigning Champ: Kyren Williams Enjoyer 🏆🏆🏆
-        </h1>
-        <p className="text-xs">
-          {"Runner Up: whatever Danny's team name was 🏆🏆"}
-        </p>
+        <h1 className="font-semibold">Reigning Champ: νίκη 🏆</h1>
+        <p className="text-xs">{"Runner Up: Shana Farhang"}</p>
       </div>
       <div className="flex w-full flex-col mt-4">
         <div className="flex w-full justify-between border-b-2 border-b-stone-400 px-2 pb-1 mb-2">
@@ -58,7 +54,7 @@ const Page = async () => {
       </div>
       <div className="my-8 w-full flex justify-center">
         <Button className="bg-yellow-400" variant="secondary" asChild>
-          <Link href="/rankings/2024/w3">Week 3 Power Rankings</Link>
+          <Link href="/rankings/2025/w1">Week 1 Power Rankings</Link>
         </Button>
       </div>
     </div>

@@ -1,5 +1,5 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { rankings2024 } from "./data";
+import { rankings2024, rankings2025 } from "./data";
 import Ranking from "./components/ranking";
 
 const tabclass = "w-full data-[state=active]:bg-yellow-400";
@@ -7,8 +7,11 @@ const tabclass = "w-full data-[state=active]:bg-yellow-400";
 const Rankings = () => {
   return (
     <div className="w-full flex justify-center mt-4">
-      <Tabs defaultValue="2024">
+      <Tabs defaultValue="2025">
         <TabsList className="bg-stone-950">
+          <TabsTrigger className={tabclass} value="2025">
+            2025
+          </TabsTrigger>
           <TabsTrigger className={tabclass} value="2024">
             2024
           </TabsTrigger>
@@ -19,6 +22,11 @@ const Rankings = () => {
             2022
           </TabsTrigger>
         </TabsList>
+        <TabsContent value="2025">
+          {rankings2025.map((week, index) => (
+            <Ranking {...week} year="2025" key={index} />
+          ))}
+        </TabsContent>
         <TabsContent value="2024">
           {rankings2024.map((week, index) => (
             <Ranking {...week} year="2024" key={index} />

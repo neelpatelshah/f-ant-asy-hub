@@ -11,11 +11,12 @@ export const merge = (xs: any[], ys: any[]) =>
     return { ...omit(x, "owner"), ...ys.find((y) => x.owner === y.owner) };
   });
 
-type Year = "2022" | "2023" | "2024";
+type Year = "2022" | "2023" | "2024" | "2025";
 type LeagueID =
   | "861492945273094144"
   | "992180769013145600"
-  | "1124855256950247424";
+  | "1124855256950247424"
+  | "1257481864420007936";
 type LeagueYear = {
   [key in Year]: LeagueID;
 };
@@ -24,6 +25,7 @@ const Years: LeagueYear = {
   "2022": "861492945273094144",
   "2023": "992180769013145600",
   "2024": "1124855256950247424",
+  "2025": "1257481864420007936",
 };
 
 export const fetchLeagueInfo = async (
