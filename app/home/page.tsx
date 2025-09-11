@@ -54,7 +54,7 @@ const Page = async () => {
       </div>
       <div className="my-8 w-full flex justify-center">
         <Button className="bg-yellow-400" variant="secondary" asChild>
-          <Link href="/rankings/2025/w1">Week 1 Power Rankings</Link>
+          <Link href="/rankings/2025/w2">Week 2 Power Rankings</Link>
         </Button>
       </div>
     </div>
