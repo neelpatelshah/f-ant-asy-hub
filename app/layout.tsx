@@ -6,7 +6,7 @@ import NavBar from "@/components/navbar";
 const font = Ysabeau_Office({ weight: "variable", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "fANTasy football VII",
+  title: "fANTasy football VIII",
   description: "hey alumni",
 };
 

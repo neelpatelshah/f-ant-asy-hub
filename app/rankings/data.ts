@@ -30,4 +30,8 @@ export const rankings2025 = [
     label: "Week 2",
     value: "w2",
   },
+  {
+    label: "Week 3",
+    value: "w3",
+  },
 ];
