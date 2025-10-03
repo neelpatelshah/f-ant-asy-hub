@@ -175,8 +175,8 @@ const Page = async () => {
       <h3 className="text-center font-bold"> WEEK 5 POWER RANKINGS </h3>
       <div className="mt-4 w-full">
         <p className="text-sm text-justify">
-          y'all probably thought it was 3 weeks and then wraps again? well get
-          ready to learn week 5 buddy. injuries showed up big time.
+          {`y'all probably thought it was 3 weeks and then wraps again? well get
+          ready to learn week 5 buddy. injuries showed up big time.`}
         </p>
         <div className="mt-4 text-sm">
           <span className="font-bold">TOTW: </span>
